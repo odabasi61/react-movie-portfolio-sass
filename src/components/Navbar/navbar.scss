@@ -2,8 +2,9 @@
 
 .navbar {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
+  flex-wrap: wrap;
   gap: 1.5rem;
   padding: 0 2rem;
   height: 10vh;
@@ -15,11 +16,5 @@
     color: #fff;
     font-family: $font-family;
     @include transition(0.5s);
-    &:hover {
-      color: orange;
-    }
-    &:active {
-      color: red;
-    }
   }
 }

@@ -3,20 +3,19 @@ import "./about.scss";
 const About = () => {
   return (
     <>
-      <div>ABOUT</div>
-      {/* <div className="background"></div>
+      <div className="background"></div>
       <div className="about-me container d-flex flex-column justify-content-center align-items-center">
         <h1 className="about-me_header">BIO</h1>
         <p className="about-me_description">
-          Jane Doe is lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Esse magni autem minima dolor quod nulla ipsam. Ducimus dolores quia
-          quam ullam dolorem tempora corrupti perspiciatis quas! Perspiciatis
-          expedita error animi consequatur impedit quia unde eum illo repellat
-          odit magni neque amet reprehenderit iste perferendis laborum quo
-          voluptate vitae explicabo accusantium, ratione minus aliquam harum?
-          Ipsa laboriosam sequi quas qui blanditiis esse, explicabo id
-          perspiciatis veniam natus quam quidem cupiditate neque dicta
-          reiciendis soluta iure rerum repudiandae. Dolorum voluptates
+          Wednesday Adams is lorem ipsum dolor sit amet consectetur, adipisicing
+          elit. Esse magni autem minima dolor quod nulla ipsam. Ducimus dolores
+          quia quam ullam dolorem tempora corrupti perspiciatis quas!
+          Perspiciatis expedita error animi consequatur impedit quia unde eum
+          illo repellat odit magni neque amet reprehenderit iste perferendis
+          laborum quo voluptate vitae explicabo accusantium, ratione minus
+          aliquam harum? Ipsa laboriosam sequi quas qui blanditiis esse,
+          explicabo id perspiciatis veniam natus quam quidem cupiditate neque
+          dicta reiciendis soluta iure rerum repudiandae. Dolorum voluptates
           reiciendis mollitia tempora unde commodi, inventore ipsam sint? Quae
           iure nobis accusamus placeat obcaecati hic magni ad incidunt, vitae
           dolorum dolores vero.
@@ -56,7 +55,7 @@ const About = () => {
             numquam exercitationem, voluptate molestias.
           </p>
         </div>
-      </div> */}
+      </div>
     </>
   );
 };

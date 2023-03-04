@@ -5,8 +5,7 @@ import ProjectCards from "../../components/ProjectCards";
 const Projects = () => {
   return (
     <>
-      <div>PROJECTS</div>
-      {/* <div className="background"></div>
+      <div className="background"></div>
       <div className="projects-title d-flex justify-content-center align-items-end">
         <h1 className="display-3 fw-bold text-center mb-4">Projects</h1>
       </div>
@@ -16,7 +15,7 @@ const Projects = () => {
             return <ProjectCards image={image} key={index} />;
           })}
         </div>
-      </div> */}
+      </div>
     </>
   );
 };
